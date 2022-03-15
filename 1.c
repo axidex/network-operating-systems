@@ -21,7 +21,7 @@ void main()
         }
         else
         {
-            printf("Error: can't allocate memory");
+            perror("Error: can't allocate memory");
         }
     }
     //Если переменная была инициализирована, то очищаем её
