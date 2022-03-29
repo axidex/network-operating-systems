@@ -10,3 +10,12 @@ closed the fd.
 # 3 
 my pid = 1676, returned pid = 1677
 my pid = 1677, returned pid = 0
+
+# 4
+counter = 1
+counter = 3
+counter = 5
+
+# 5
+$ ./a.out hello
+hello
