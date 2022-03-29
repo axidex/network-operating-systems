@@ -17,5 +17,14 @@ counter = 3
 counter = 5
 
 # 5
-$ ./a.out hello
+$ ./a.out hello \n
 hello
+
+# 6
+mypipe is created \n
+echo 123 > mypipe \n
+mypipe is opened \n
+Incomming message (4): 123 \n
+
+read error: Success
+
