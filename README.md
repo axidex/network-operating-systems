@@ -22,7 +22,7 @@ hello
 
 # 6
 mypipe is created  
-echo 123 > mypipe  
+$ echo 123 > mypipe  
 mypipe is opened  
 Incomming message (4): 123  
 read error: Success  
