@@ -12,8 +12,8 @@ sudo apt-get install cmake
 bash builder.sh
 ```
 <a name="building-linux-builder-flags"><h4>Builder flags</h4></a>
-<code>--Lec23</code> or <code>-e</code> - build Lec23 only.<br/>
-<code>--Lec4</code> or <code>-s</code> - build Lec4 only.<br/>
+<code>--Lec23</code> - build Lec23 only.<br/>
+<code>--Lec4</code> - build Lec4 only.<br/>
 
 <a name="building-windows"><h3>On Windows</h3></a>
 At the moment windows is not supported.
