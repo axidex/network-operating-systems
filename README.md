@@ -44,7 +44,7 @@ hello
 
 <a name="Program3"><h4>Program3</h4></a>
 mypipe is created  
-$ echo 123 > mypipe  
+<code>echo 123 > mypipe</code>  
 mypipe is opened  
 Incomming message (4): 123  
 read error: Success  
