@@ -1,4 +1,12 @@
 # network-operating-systems  
+##### <h3>Content</h3>
+ - [Building](#building)
+      - [On GNU/Linux](#building-linux)
+           - [Requirements](#building-linux-requirements)
+           - [Compiling](#building-linux-compiling)
+           - [Builder flags](#building-linux-builder-flags)
+      - [On Windows](#building-windows)
+ - [Examples](#Examples)
 # build preferences
 <a name="building-linux"><h3>On GNU/Linux</h3></a>
 <a name="building-linux-requirements"><h4>Requirements</h4></a>
@@ -18,7 +26,7 @@ bash builder.sh
 <a name="building-windows"><h3>On Windows</h3></a>
 At the moment windows is not supported.
 
-<a name="examples"><h2>Examples</h4></a>
+<a name="Examples"><h2>Examples</h4></a>
 <a name="Lec23"><h3>Lec23</h3></a>
 <a name="Program1"><h4>Program1</h4></a>
 Enter length of array: -1  
