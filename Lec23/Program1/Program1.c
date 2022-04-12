@@ -1,7 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
-#include <conio.h>
-void main()
+int main()
 {
     int *array = NULL;
     unsigned length, i;
@@ -29,6 +28,5 @@ void main()
     {
         free(array);
     }
-    getch();
     return 0;
 }
